@@ -1,0 +1,12 @@
+[submodule "ProgramacaoDeComputadoresII"]
+	path = ProgramacaoDeComputadoresII
+	url = https://github.com/kabessao/ProgramacaoDeComputadoresII.git
+[submodule "TecnologiaParaMobilidade"]
+	path = TecnologiaParaMobilidade
+	url = https://github.com/kabessao/TecnologiaParaMobilidade.git
+[submodule "DesenvolvimentoDeSoftwareII"]
+	path = DesenvolvimentoDeSoftwareII
+	url = https://github.com/kabessao/DesenvolvimentoDeSoftwareII.git
+[submodule "RedesEComunicacaoDeDados"]
+	path = RedesEComunicacaoDeDados
+	url = https://github.com/kabessao/RedesEComunicacaoDeDados.git
