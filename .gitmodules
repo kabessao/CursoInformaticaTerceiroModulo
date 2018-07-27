@@ -10,3 +10,6 @@
 [submodule "RedesEComunicacaoDeDados"]
 	path = RedesEComunicacaoDeDados
 	url = https://github.com/kabessao/RedesEComunicacaoDeDados.git
+[submodule "BancoDeDadosIII"]
+	path = BancoDeDadosIII
+	url = https://github.com/kabessao/BancoDeDadosIII
